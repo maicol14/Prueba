@@ -1,0 +1,23 @@
+package com.example.Prueba_Springboot;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.example.Prueba_Springboot.NumerosEndp;
+
+public class EndpoindPrueba {
+	
+	
+
+
+
+@GET
+
+public respuesta ObtenerLista() throws  Exception {
+	
+	List<NumerosEndp> listanumeros = new ArrayList();
+	
+	NumerosEndp  numerosEnd = new NumerosEndp(1,2);
+ 	
+	
+
+}

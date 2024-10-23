@@ -1,0 +1,17 @@
+package com.example.Prueba_Springboot;
+
+import java.util.List;
+
+public class Lista {
+
+	
+	private List<NumerosEndp> numerosEndp;
+	
+	public Lista() {}
+
+	public void setProductos(List<NumerosEndp> productos) {
+		
+		
+	}
+}
+
